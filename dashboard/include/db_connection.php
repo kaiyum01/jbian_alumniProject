@@ -1,6 +1,6 @@
 <?php
 // Establishing connection with server..
-  $connection = mysql_connect("jbian.org", "userName", "dbpassword");
+  $connection = mysql_connect("localhost", "userName", "dbpassword");
 
 // Selecting Database 
   $db = mysql_select_db("dbName", $connection);
