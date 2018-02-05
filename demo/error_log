@@ -1,0 +1,113 @@
+[08-Jul-2017 20:24:56 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/useful_link.php on line 51
+[14-Jul-2017 08:16:36 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:38 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:39 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:39 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:40 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:41 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:41 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:42 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:43 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:43 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:44 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:44 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:45 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:50 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:51 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:51 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:53 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:55 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:56 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:58 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:16:59 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:17:20 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[14-Jul-2017 08:17:20 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 61
+[23-Aug-2017 08:26:15 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'fwjbian'@'server4.thefirstserver.com' (using password: YES) in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 3
+[23-Aug-2017 08:26:15 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 6
+[23-Aug-2017 08:26:15 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/index.php on line 172
+[23-Aug-2017 08:26:15 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/index.php on line 172
+[23-Aug-2017 08:26:15 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/index.php on line 175
+[23-Aug-2017 08:26:15 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/index.php on line 385
+[23-Aug-2017 08:26:15 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/index.php on line 385
+[23-Aug-2017 08:26:15 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/index.php on line 388
+[23-Aug-2017 08:26:15 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:26:15 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:26:15 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/footer.php on line 101
+[23-Aug-2017 08:26:36 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'fwjbian'@'server4.thefirstserver.com' (using password: YES) in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 3
+[23-Aug-2017 08:26:36 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 6
+[23-Aug-2017 08:26:36 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/dashboard/include/kaiyum_function.php on line 40
+[23-Aug-2017 08:26:36 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/dashboard/include/kaiyum_function.php on line 40
+[23-Aug-2017 08:26:36 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/dashboard/include/kaiyum_function.php on line 42
+[23-Aug-2017 08:26:36 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:26:36 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:26:36 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/footer.php on line 101
+[23-Aug-2017 08:27:09 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'fwjbian'@'server4.thefirstserver.com' (using password: YES) in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 3
+[23-Aug-2017 08:27:09 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 6
+[23-Aug-2017 08:27:09 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/dashboard/include/kaiyum_function.php on line 40
+[23-Aug-2017 08:27:09 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/dashboard/include/kaiyum_function.php on line 40
+[23-Aug-2017 08:27:09 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/dashboard/include/kaiyum_function.php on line 42
+[23-Aug-2017 08:27:09 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:27:09 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:27:09 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/footer.php on line 101
+[23-Aug-2017 08:29:49 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'fwjbian'@'server4.thefirstserver.com' (using password: YES) in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 3
+[23-Aug-2017 08:29:49 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 6
+[23-Aug-2017 08:29:49 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/index.php on line 172
+[23-Aug-2017 08:29:49 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/index.php on line 172
+[23-Aug-2017 08:29:49 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/index.php on line 175
+[23-Aug-2017 08:29:49 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/index.php on line 385
+[23-Aug-2017 08:29:49 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/index.php on line 385
+[23-Aug-2017 08:29:49 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/index.php on line 388
+[23-Aug-2017 08:29:49 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:29:49 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:29:49 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/footer.php on line 101
+[23-Aug-2017 08:30:13 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'fwjbian'@'server4.thefirstserver.com' (using password: YES) in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 3
+[23-Aug-2017 08:30:13 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 6
+[23-Aug-2017 08:30:13 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/image_gallery.php on line 73
+[23-Aug-2017 08:30:13 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/image_gallery.php on line 73
+[23-Aug-2017 08:30:13 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/image_gallery.php on line 76
+[23-Aug-2017 08:30:13 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:30:13 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:30:13 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/footer.php on line 101
+[23-Aug-2017 08:30:32 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'fwjbian'@'server4.thefirstserver.com' (using password: YES) in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 3
+[23-Aug-2017 08:30:32 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 6
+[23-Aug-2017 08:30:32 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/notice.php on line 58
+[23-Aug-2017 08:30:32 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/notice.php on line 58
+[23-Aug-2017 08:30:32 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice.php on line 61
+[23-Aug-2017 08:30:32 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:30:32 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:30:32 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/footer.php on line 101
+[23-Aug-2017 08:30:46 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'fwjbian'@'server4.thefirstserver.com' (using password: YES) in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 3
+[23-Aug-2017 08:30:46 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/fwjbian/public_html/demo/dashboard/include/db_connection.php on line 6
+[23-Aug-2017 08:30:46 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/useful_link.php on line 48
+[23-Aug-2017 08:30:46 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/useful_link.php on line 48
+[23-Aug-2017 08:30:46 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/useful_link.php on line 51
+[23-Aug-2017 08:30:46 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:30:46 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/demo/footer.php on line 100
+[23-Aug-2017 08:30:46 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/footer.php on line 101
+[31-Aug-2017 04:19:18 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:25 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:27 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:29 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:31 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:33 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:35 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:37 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:39 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:41 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:43 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:46 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:48 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:50 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:52 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:54 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:56 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:19:58 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:20:00 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:20:01 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:20:03 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:20:30 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[31-Aug-2017 04:20:32 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[04-Jan-2018 11:31:30 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[16-Jan-2018 13:58:02 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[16-Jan-2018 13:58:07 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69
+[16-Jan-2018 13:58:07 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/demo/notice_details.php on line 69

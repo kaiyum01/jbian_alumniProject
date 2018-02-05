@@ -1,0 +1,7 @@
+[08-Oct-2017 23:55:49 America/New_York] PHP Warning:  mysql_connect(): Connection timed out in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 3
+[08-Oct-2017 23:55:49 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 6
+[08-Oct-2017 23:55:49 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 10
+[08-Oct-2017 23:55:49 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 10
+[08-Oct-2017 23:55:49 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/magazine/magazine.php on line 365
+[08-Oct-2017 23:55:49 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/magazine/magazine.php on line 365
+[08-Oct-2017 23:55:49 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/magazine/magazine.php on line 366

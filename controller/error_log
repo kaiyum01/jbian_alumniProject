@@ -1,0 +1,29 @@
+[04-Oct-2017 02:35:43 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/controller/student_list_controller.php on line 138
+[06-Oct-2017 09:18:14 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/controller/student_list_controller.php on line 138
+[06-Oct-2017 09:18:14 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/controller/student_list_controller.php on line 138
+[08-Oct-2017 04:03:57 America/New_York] PHP Warning:  mysql_connect(): Connection timed out in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 3
+[08-Oct-2017 04:03:57 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 6
+[08-Oct-2017 04:03:57 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 10
+[08-Oct-2017 04:03:57 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 10
+[08-Oct-2017 04:03:57 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/controller/student_list_controller.php on line 50
+[08-Oct-2017 04:03:57 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/controller/student_list_controller.php on line 50
+[08-Oct-2017 04:03:57 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/controller/student_list_controller.php on line 71
+[15-Nov-2017 12:57:45 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/fwjbian/public_html/controller/student_list_controller.php on line 89
+[15-Nov-2017 12:58:15 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/fwjbian/public_html/controller/student_list_controller.php on line 89
+[15-Nov-2017 12:59:38 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/fwjbian/public_html/controller/student_list_controller.php on line 89
+[15-Nov-2017 12:59:53 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/fwjbian/public_html/controller/student_list_controller.php on line 89
+[15-Nov-2017 13:00:15 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/fwjbian/public_html/controller/student_list_controller.php on line 89
+[15-Nov-2017 13:00:18 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/fwjbian/public_html/controller/student_list_controller.php on line 89
+[15-Nov-2017 13:00:27 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/fwjbian/public_html/controller/student_list_controller.php on line 89
+[15-Nov-2017 13:00:31 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/fwjbian/public_html/controller/student_list_controller.php on line 89
+[15-Nov-2017 13:00:32 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/fwjbian/public_html/controller/student_list_controller.php on line 89
+[15-Nov-2017 13:00:33 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/fwjbian/public_html/controller/student_list_controller.php on line 89
+[15-Nov-2017 13:00:33 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/fwjbian/public_html/controller/student_list_controller.php on line 89
+[24-Jan-2018 23:13:05 America/New_York] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 3
+[24-Jan-2018 23:13:05 America/New_York] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 3
+[24-Jan-2018 23:13:05 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 6
+[24-Jan-2018 23:13:05 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 10
+[24-Jan-2018 23:13:05 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/dashboard/include/db_connection.php on line 10
+[24-Jan-2018 23:13:05 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fwjbian/public_html/controller/online_library_controller.php on line 13
+[24-Jan-2018 23:13:05 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fwjbian/public_html/controller/online_library_controller.php on line 13
+[24-Jan-2018 23:13:05 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/fwjbian/public_html/controller/online_library_controller.php on line 33
